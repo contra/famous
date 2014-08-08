@@ -1,0 +1,118 @@
+{
+  "name": "famous",
+  "version": "0.2.3-beta0",
+  "description": "A JavaScript framework for everyone who wants to build beautiful experiences on any device.",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/famous/famous.git"
+  },
+  "author": {
+    "name": "Famo.us Industries, Inc.",
+    "email": "contact@famo.us"
+  },
+  "license": "MPL-2.0",
+  "contributors": [
+    {
+      "name": "Adam Cmiel",
+      "email": "adamcmiel@gmail.com"
+    },
+    {
+      "name": "Andrew de Andrade",
+      "email": "andrew@famo.us"
+    },
+    {
+      "name": "Andrew Kerr",
+      "email": "arkerr@gatech.edu"
+    },
+    {
+      "name": "Benjamin Cronin",
+      "email": "benjamin.cronin@gmail.com"
+    },
+    {
+      "name": "Brian Maissy",
+      "email": "brian.maissy@gmail.com"
+    },
+    {
+      "name": "Dave Fetterman",
+      "email": "fetterman@famo.us"
+    },
+    {
+      "name": "David Valdman",
+      "email": "david@famo.us"
+    },
+    {
+      "name": "Eric Miller",
+      "email": "eric@simpleascouldbe.com"
+    },
+    {
+      "name": "Felix Tripier",
+      "email": "felix@famo.us"
+    },
+    {
+      "name": "George Bonner",
+      "email": "georgebonnr@gmail.com"
+    },
+    {
+      "name": "Hongxu Liu",
+      "email": "shu@famo.us"
+    },
+    {
+      "name": "Mark Lu",
+      "email": "mark@famo.us"
+    },
+    {
+      "name": "Mike O'Brien",
+      "email": "mike@famo.us"
+    },
+    {
+      "name": "Rafael Cosman",
+      "email": "rcosman@stanford.edu"
+    },
+    {
+      "name": "Reza Ali",
+      "email": "reza@famo.us"
+    },
+    {
+      "name": "Ryan Martin",
+      "email": "ryan@famo.us"
+    },
+    {
+      "name": "Tom Watson",
+      "email": "tom@famo.us"
+    },
+    {
+      "name": "Tim Chin",
+      "email": "tim@famo.us"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/famous/famous/issues"
+  },
+  "homepage": "https://github.com/famous/famous",
+  "_id": "famous@0.2.3-beta0",
+  "scripts": {},
+  "_shasum": "3bdcc888d23482a328a7295f83398231c405710c",
+  "_from": "famous@0.2.3-beta0",
+  "_npmVersion": "2.0.0-alpha-5",
+  "_npmUser": {
+    "name": "thealphanerd",
+    "email": "myles.borins@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "thealphanerd",
+      "email": "myles.borins@gmail.com"
+    },
+    {
+      "name": "famous",
+      "email": "npm@famo.us"
+    }
+  ],
+  "dist": {
+    "shasum": "3bdcc888d23482a328a7295f83398231c405710c",
+    "tarball": "http://registry.npmjs.org/famous/-/famous-0.2.3-beta0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/famous/-/famous-0.2.3-beta0.tgz"
+}
